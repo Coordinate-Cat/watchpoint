@@ -1,3 +1,5 @@
+# Ocean
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
@@ -31,3 +33,10 @@ This should create a production bundle for your extension, ready to be zipped an
 ## Submit to the webstores
 
 The easiest way to deploy your Plasmo extension is to use the built-in [bpp](https://bpp.browser.market) GitHub action. Prior to using this action however, make sure to build your extension and upload the first version to the store to establish the basic credentials. Then, simply follow [this setup instruction](https://docs.plasmo.com/framework/workflows/submit) and you should be on your way for automated submission!
+
+## ドキュメント
+
+これを基準にジャンル分けする
+
+- https://github.com/jivoi/awesome-osint/blob/master/README.md
+- detalistコンポーネントにスネークケースジャンル別データを保存する
