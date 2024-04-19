@@ -47,3 +47,4 @@ The easiest way to deploy your Plasmo extension is to use the built-in [bpp](htt
 ## Resources
 
 - https://github.com/jivoi/awesome-osint/blob/master/README.md
+  - for categorization
