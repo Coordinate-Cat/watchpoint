@@ -29,6 +29,7 @@ This should create a production bundle for your extension, ready to be zipped an
 - [ ] Table component (for all data)
 - [ ] Table component (for each data)
 - [ ] Datalization component
+- [ ] Plus button component
 - [ ] Settings component
 - [ ] Admin info component
 - [ ] QA component
